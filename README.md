@@ -1,4 +1,4 @@
-### Oi, eu sou a Joyce✨
+<h1 align="center"> Oi, eu sou a Joyce✨</h1>
 
 
 <div align="center">
