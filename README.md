@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/joycelusia">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joycelusia&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycelusia&layout=compact&hide_border=true&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joycelusia&show_icons=true&hide_border=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycelusia&layout=compact&hide_border=true&langs_count=7&theme=nightowl"/>
 </div>
 
 <div align = "center" style="display: inline_block"><br>
