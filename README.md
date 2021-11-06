@@ -8,13 +8,15 @@
 </div>
 
 <div align = "center" style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-</div>
+  <img align="center" alt="Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="bootstrap" height="45" width="45" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png">
+  <img align="center" alt="jquery" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png">
+  <img align="center" alt="mysql" height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png">
+  <img align="center" alt="docker" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png">
+  <img align="center" alt="git" height="65" width="65" src="https://cdn.iconscout.com/icon/free/png-256/git-16-1175195.png">
+</div> 
 
   <h2 align="center"> Contato: </h2>
 <div align="center"> 
