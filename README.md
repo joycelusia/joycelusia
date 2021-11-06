@@ -8,9 +8,9 @@
 </div>
 
 <div align = "center" style="display: inline_block"><br>
-  <img align="center" alt="Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="html" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/html5-41-1175209.png">
+  <img align="center" alt="css" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/css3-10-1175238.png">
+  <img align="center" alt="javascript" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">
   <img align="center" alt="bootstrap" height="45" width="45" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png">
   <img align="center" alt="jquery" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png">
   <img align="center" alt="mysql" height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png">
